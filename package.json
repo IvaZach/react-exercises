@@ -1,8 +1,8 @@
 {
-  "name": "react-exercises",
+  "name": "react-exercises-lesson-1-and-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.ivazach.io/react-exercises/",
+  "homepage": "https://goitacademy.ivazach.io/react-exercises-lesson-1-and-2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
